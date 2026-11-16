@@ -1,0 +1,7 @@
+{
+  "name": "git-history-mod",
+  "owner": { "name": "l12-krts" },
+  "plugins": [
+    { "name": "git-history", "source": "./plugins/git-history", "description": "A pane showing the git history of the current repo" }
+  ]
+}
